@@ -3,5 +3,5 @@ tools:
 •	Airflow
 •	Docker
 •	Astro
-•	Vscode
+•	Postgres
 •	Metabase
